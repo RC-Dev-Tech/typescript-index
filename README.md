@@ -18,7 +18,7 @@
 ---
 
 ## 常用功能
-- [異步程式設計 Promise、Async/Await](https://github.com/RC-Dev-Tech/typescript-async-await)
+- [異步程式設計 - Promise、Async/Await](https://github.com/RC-Dev-Tech/typescript-async-await)
 - 裝飾器
 - 模組化程式設計
 - 類別繼承和介面實作
