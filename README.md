@@ -19,7 +19,7 @@
 
 ## 常用功能
 - [異步程式設計 - Promise、Async/Await](https://github.com/RC-Dev-Tech/typescript-async-await)
-- 裝飾器
+- [裝飾器 (Decorators)](https://github.com/RC-Dev-Tech/typescript-decorators)
 - 模組化程式設計
 - 類別繼承和介面實作
 - 型別註解和型別推斷
