@@ -6,18 +6,17 @@
 
 <!--ts-->
 ## 目錄
-* [基礎應用](#基礎應用)
-* [常用功能](#常用功能)
+* [基礎用法](#基礎用法)
 * [進階用法](#進階用法)
 <!--te-->
 
 ---
 
-## 基礎應用
+## 基礎用法
 
 ---
 
-## 常用功能
+## 進階用法
 - [異步程式設計 - Promise、Async/Await](https://github.com/RC-Dev-Tech/typescript-async-await)
 - [裝飾器 (Decorators)](https://github.com/RC-Dev-Tech/typescript-decorators)
 - 模組化程式設計
@@ -25,10 +24,6 @@
 - 型別註解和型別推斷
 - 模板字串
 - 聯合型別和型別守衛
-
----
-
-## 進階用法
 - 泛型
 - 高級的型別系統
 - 條件型別
